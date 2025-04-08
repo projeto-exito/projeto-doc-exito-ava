@@ -9,5 +9,13 @@
         "title": "Versões"
       }
     ]
+  },
+  {
+    "title": "Qualidade",
+    "subMenu": [
+      {
+        "title": "Testes"
+      }
+    ]
   }
 ]
